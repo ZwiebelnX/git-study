@@ -18,6 +18,8 @@
 
 ~~学习通过git commit和git push进行提交~~
 
-学习通过git log查看提交日志
+~~学习通过git log查看提交日志~~
 
-学习通过git checkout进行分支更改和创建：git checkout -b新建分支
+~~学习通过git checkout进行分支更改和创建：git checkout -b新建分支~~
+
+学习rebase命令和merge命令的区别
