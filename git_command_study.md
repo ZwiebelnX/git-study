@@ -22,4 +22,4 @@
 
 ~~学习通过git checkout进行分支更改和创建：git checkout -b新建分支~~
 
-学习rebase命令和merge命令的区别
+学习rebase命令和merge命令的区别 
