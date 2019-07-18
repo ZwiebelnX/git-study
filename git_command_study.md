@@ -15,3 +15,7 @@
 学习使用git add进行文件添加
 
 学习通过git commit和git push进行提交
+
+
+
+进行rebase或者merge操作
