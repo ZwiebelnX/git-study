@@ -8,20 +8,12 @@
 
 
 
-~使用git进行clone和push~~
+~~学习使用git进行clone和push~~
 
-~~学习使用git status进行状态查看~~
+学习使用git status进行状态查看
 
-~~学习使用git add进行文件添加~~
+学习使用git add进行文件添加
 
 学习通过git commit和git push进行提交
 
 ~~学习通过git commit和git push进行提交~~
-
-~~学习通过git log查看提交日志~~
-
-~~学习通过git checkout进行分支更改和创建：git checkout -b新建分支~~
-
-学习通过git add -u来更新已更新的
-
-学习rebase命令和merge命令的区别 
