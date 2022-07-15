@@ -1,4 +1,4 @@
-git-test rebase 1-1
+git-test rebase 1-2
 
 给出两个比较好的参考：
 > git-scm，官方教程与参考文档：[git-scm](https://git-scm.com/)
